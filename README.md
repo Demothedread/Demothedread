@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demothedread
 - 👀 applied ontology, generative ai, attic tragedy and cajun
-- 🌱 I’m currently learning python and
+- 🌱 I currently don't know what i'm doing, nor have i ever
 
 <!---
 Demothedread/Demothedread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
